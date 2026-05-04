@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="">
+        <Fieldset>
+         <legend>Register Form</legend>
+         <p>
+         <label for="name">NAME:</label>
+         <input type="" placeholder="Enter your name">
+         </p>
+         <p>
+            <label for="age">AGE:</label>
+            <input type="text" placeholder="Enter your age">
+        </p>
+        <p>
+            <label for="email">EMAIL ID</label>
+            <input type="text" placeholder="Enter your mail id">
+        </p>
+        <p>
+            <label for="password">PASSWORD</label>
+            <input type="text" placeholder="Enter your password">
+        </p>
+        <p>
+        <label for="gender">GENDER</label><br>
+        <input type="radio" name="1">Male
+        <input type="radio" name="1">Female
+        </p>
+        <p>
+            <label for="city">CITY:</label>
+            <select>
+              select <option>--Select--</option>
+              select <option>Salem</option>
+              select <option>Chennai</option>
+              select <option>Bangalore</option>
+              select <option>Coimbatore</option>
+            </select>
+        </p>
+        <p>
+            <button>Submit 1</button>
+            <input type="Submit" value="Submit 2">
+        </p>
+
+
+
+
+        </Fieldset>
+    </form>
+</body>
+</html>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d497511.23105245834!2d79.8789875295672!3d13.04798594977182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265ea4f7d3361%3A0x6e61a70b6863d433!2sChennai%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1777459788957!5m2!1sen!2sin" 
+    width="300" height="350" style="border:0;" 
+    allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_QBdTIT8Lek?si=egrk8EEkbR9l5Zhu" 
+    title="YouTube video player" frameborder="0" allow="accelerometer; 
+    autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
