@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html{
+            scroll-behavior: smooth;
+        }
+        nav{
+            background-color: transparent;
+            position: fixed;
+            width: 100%;
+        }
+        ul{
+            list-style: none;
+            display: flex;
+            gap: 35px;
+            justify-content: center;
+        }
+        a{
+            text-decoration: none;
+            color: rgb(17, 13, 13);
+            font-size: 35px;
+        }
+        #ho{
+            background-image: url("./C:\Users\ADMIN\Desktop\HTML 0\Animal Images Download_files";)
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 100vh;
+        }
+        #ab{
+            background-image: url("./C:\Users\ADMIN\Desktop\HTML 0\Animal Images Download_files\download (1).jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 100vh;
+        }
+        #pr{
+            background-image: url("./C:\Users\ADMIN\Desktop\HTML 0\Animal Images Download_files\download (2).jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+        #se{
+            background-image: url("./C:\Users\ADMIN\Desktop\HTML 0\Animal Images Download_files\download (3).jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 100vh;
+        }
+        #co{
+            background-image: url("./C:\Users\ADMIN\Desktop\HTML 0\Animal Images Download_files\download (4).jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 100vh;
+        }
+        .fr{
+            width: 180px;
+            height: 280px;
+            border: 3px solid rgb(25, 25, 28);
+            padding: 10px;
+            background-color: #fff;
+        }
+        .se{
+            width: 180px;
+            height: 280px;
+            border: 3px solid rgb(221, 178, 76);
+            padding: 10px;
+            background-color: #fff;
+        }
+        .th{
+            width: 180px;
+            height: 280px;
+            border: 3px solid rgb(45, 17, 205);
+            padding: 10px;
+            background-color: #fff;
+        }
+        .sh{
+           width: 180px;
+            height: 280px;
+            border: 3px solid rgb(44, 163, 206);
+            padding: 10px;
+            background-color: #fff; 
+        }
+        .pa{
+            display: flex;
+            gap: 35px;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="ho">
+        <nav>
+            <ul>
+                <li><a href="#ho">Home</a></li>
+                <li><a href="#ab">About</a></li>
+                <li><a href="#pr">Product</a></li>
+                <li><a href="#se">Services</a></li>
+                <li><a href="#co">Contact</a></li>
+            </ul>
+        </nav>
+
+
+    </div>
+    <div id="ab"></div>
+    <div id="pr">
+        <div class="pa">
+            <div class="fr">
+                <img src="./Animal Images Download_files/download (1).jpg" alt="" width="150px" height="150px">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam suscipit eveniet rerum ipsa tempore exercitationem doloribus voluptas harum quo. Voluptatum!</p>
+            </div>
+            <div class="se">
+                <img src="./Animal Images Download_files/download (2).jpg" alt="" width="150px" height="150px">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam suscipit eveniet rerum ipsa tempore exercitationem doloribus voluptas harum quo. Voluptatum!</p>
+            </div>
+            <div class="th">
+                <img src="./Animal Images Download_files/download (3).jpg" alt="" width="150px" height="150px">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam suscipit eveniet rerum ipsa tempore exercitationem doloribus voluptas harum quo. Voluptatum!</p>
+            </div>
+            <div class="sh">
+                <img src="./Animal Images Download_files/download (4).jpg" alt="" width="150px" height="150px">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam suscipit eveniet rerum ipsa tempore exercitationem doloribus voluptas harum quo. Voluptatum!</p>
+            </div>
+        </div>
+    </div>
+    <div id="se"></div>
+    <div id="co"></div>
+</body>
+</html>
