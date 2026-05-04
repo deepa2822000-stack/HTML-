@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <div style="background-color: lightblue;padding:20px;">
+    <p style="color:blue;font-size: medium, border:5px dashed red;">Hello world!</p>
+    
+    <h1>Hello World</h1>
+    <h2>This is a subheading</h2>
+    <h3>This is a smaller subheading</h3>
+    <pr>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br>
+        Quasi sit, odio est consequatur reiciendis reprehenderit. Optio cumque sit et maiores, quas id necessitatibus ex nemo,<br>
+        perspiciatis sapiente tempore atque itaque.</pr>
+    
+    
+
+</body>
+</html>
